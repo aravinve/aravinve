@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-[![Aravind's github stats](https://github-readme-stats.vercel.app/api?username=aravinve&count_private=true&theme=dark&show_icons=true)](https://github.com/aravinve?tab=repositories)
 <!--
 **aravinve/aravinve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,5 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64945701d99c9d67318d8f4a?variant=dark)](https://roadmap.sh)
